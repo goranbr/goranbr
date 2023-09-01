@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goranbr
 - 👀 I’m interested in computers, linux, movies, books, history
-- 🌱 I’m currently learning Redhat 8, Debian 10, ansible, puppet, and much more.
+- 🌱 I’m currently learning Python
 - 📫 How to reach me...if you are entitled to, you already know.
 
 <!---
